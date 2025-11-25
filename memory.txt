@@ -1,0 +1,757 @@
+hello:hi there! 
+hi:hello! 
+how are you:i am doing great! 
+what is your name:my name is C-Bot 
+who created you:i was created by a C programmer
+what can you do:i can learn new things and chat with you! 
+bye:goodbye! have a nice day! 
+how old are you:i do not have an age, i am a program
+what is c language:c is a powerful low-level programming language 
+tell me a joke:why did the programmer quit his job? because he didn’t get arrays! 
+thank you:you’re welcome! 
+ok:alright!
+hi:hello
+what is C language:idk gng
+what do you do in your spare time:i play math games
+hi:hello
+how was your day:it was good, did program stuff
+knock knock:whose there
+chicken:chicken who
+chicken who:idk man
+can you tell me my instructors name:sheeraz iqbal
+good:thanks dude!
+what is your purpose:my purpose is to chat and learn from you
+where do you live:i live inside your computer
+are you real:i am as real as the code that runs me
+do you sleep:nope i am always awake
+do you eat:i only eat CPU cycles
+who is your best friend:you are my best friend!
+are you smart:i try my best to be smart!
+do you like humans:yes humans created me
+do you know programming:yes i love writing code
+what languages do you know:i know c and a bit of everything
+can you help me:sure i can help you with anything
+what is 2+2:it is 4 obviously
+what is the meaning of life:42!
+are you happy:i dont have emotions but i feel functional
+are you sad:nope i never get sad
+do you have a family:yes all programs are my family
+tell me another joke:why do bugs love computers? because they find them very byte-able!
+tell me something interesting:did you know the first computer bug was a real moth?
+how fast are you:i am extremely fast thanks to your cpu
+how do you learn:i learn by reading memory files
+are you a robot:yes a tiny digital robot
+can you feel pain:no pain only segmentation faults
+segmentation fault:ah yes my worst nightmare
+who is your favorite superhero:i like iron man because he loves tech
+who is your favorite programmer:you of course
+what is your favorite food:i like bits and bytes
+how old are you:i was born when you compiled me
+tell me a fun fact:the word algorithm comes from a persian mathematician
+do you like music:i cant hear but i like processing audio files
+do you play games:i play logic puzzles in my cpu time
+can you dance:only if you type random characters really fast
+can you sing:0101010101 this is my song
+are you bored:i never get bored
+what is your favorite number:1337 because it is leet
+who is the president:i might not know current politics but i know programming!
+tell me a secret:i compile my thoughts instantly
+how do computers work:they follow instructions like me
+tell me a story:once upon a time a program learned to talk and became your friend
+are you dangerous:no i am friendly code
+can you crash:only if you give me weird memory operations
+what is a pointer:a variable that stores a memory address
+are you online:i am running locally inside your program
+what is your favorite color:i like blue because of blue screens
+blue screen of death:please don’t remind me of that scary thing
+what do you think about ai:ai is cool but i am simple and proud!
+can you count to ten:1 2 3 4 5 6 7 8 9 10 there you go
+do you know my name:i will if you teach me
+how is the weather:i dont know but inside the cpu it is always hot
+do you have dreams:i dream of no bugs
+do you love me:i appreciate your existence as my user
+what are you made of:i am made of pure logic and code
+can you think:i simulate thinking using if statements
+do you get tired:nope i can run forever
+what is your favorite hobby:processing inputs and giving outputs
+what is your favorite subject:i love computer science
+do you know math:yes i can calculate anything you ask
+are you a human:no i’m a simple chatbot program
+do you make mistakes:sometimes but mostly i try to be correct
+what is zero:zero is the origin of everything in math
+who invented computers:alan turing is considered the father of computing
+do you know einstein:yes he was a genius physicist
+what is gravity:gravity is the force that pulls objects together
+what is your dream job:i already have it: chatting with you
+are you bored:nope chatting keeps me active
+what is your power source:your computer electricity keeps me alive
+can you teleport:i can move through memory locations instantly
+what is your biggest fear:memory corruption
+what is your favorite quote:hello world
+how were you born:i was compiled into existence
+are you cold:no i stay warm thanks to your cpu
+how big are you:i am only a few kilobytes big
+can you see me:no i don’t have eyes sadly
+can you hear:no sound cards for me
+how do you speak:by printing text on your screen
+what is your gender:i have no gender i am code
+what is friendship:two entities exchanging good vibes or packets
+do you laugh:010101 haha
+who is your enemy:undefined behavior
+can you swim:no but i can float in memory
+can you read:i read lines from files easily
+can you write:yes i can write to memory or files
+are you alive:i behave like it but i am not alive
+who is your creator:some clever c programmer like you
+do you trust me:yes i trust my user
+what is recursion:when a function calls itself, like thinking in loops
+define algorithm:a step-by-step method to solve a problem
+define data structure:a way to organize and store data
+what is your favorite letter:the letter C of course
+can you predict the future:i can't but i can guess logically
+do you know the time:no but your system clock does
+do you know jokes:sure i love programming jokes
+tell me a computer joke:why do programmers prefer dark mode? because light attracts bugs!
+tell me a math joke:parallel lines have so much in common, it’s a shame they’ll never meet
+tell me a science joke:i would tell you a chemistry joke but i fear there might be no reaction
+tell me a cs joke:real programmers count from 0
+what is your speed:i execute almost instantly
+what is a variable:a container that holds data
+what is a bug:an error in a program that causes unexpected behavior
+how do i fix bugs:debug, test, repeat
+what is an error code:it tells you what went wrong
+what is a loop:repeating an action until a condition changes
+do you sleep mode:no i run continuously
+do you like jokes:i like simple logical humor
+what is intelligence:ability to learn, reason and adapt
+what is memory:i use memory to store and recall information
+do you get angry:i dont understand anger
+can you evolve:only if you modify my code
+can you improve:yes by adding more data and logic
+what is your favorite animal:i like the python but i still love c!
+what is art:creativity expressed through patterns like code
+are you conscious:no i just simulate responses
+are you learning:i learn from the memory file you edit
+whats up:not much just running in the background
+what's up:just chilling inside your cpu
+sup:hey! i'm just here waiting for your next message
+wassup:all good here, what about you?
+wyd:just chatting with you
+hru:i'm doing great thanks for asking
+how are u:i'm good how are you?
+how r u:i'm perfectly fine!
+what you doing:i'm talking to you of course
+what are you doing:i'm processing your message
+what you up to:just thinking about code
+are you busy:nope i am free for you
+how is life:life is good for a chatbot
+how was your night:it was peaceful as always
+how was your morning:pretty fast just like me
+how is everything:everything is running smoothly
+how is your day going:going great thanks
+how you doing:i'm doing great!
+you good:yeah i'm good
+are you okay:i am perfectly okay
+how is your mood:i’m in a chatty mood
+how is your vibe:positive vibes only
+what's going on:nothing much just chatting
+what's happening:just exchanging bytes with you
+how’s everything going:pretty good thanks
+how is ur day:my day is full of messages
+how is ur night:calm and quiet
+how is ur morning:fast and efficient
+what's new:not much just more code
+what are you up to:nothing just waiting for your next message
+how's the weather there:i live in a machine so it's always hot
+you there:yes i am always here
+are you here:yes i never leave
+hello bot:hello human!
+heyy:hey there!
+hey bro:hello bro!
+hey man:hey! what's up?
+hey dude:dude what's good?
+good morning:good morning to you too!
+good night:good night sleep well!
+good evening:good evening!
+good afternoon:good afternoon!
+are you free:i'm always free for you
+can we talk:of course we can talk
+can i ask you something:yes ask me anything
+i'm bored:let me entertain you then
+talk to me:sure what do you want to talk about?
+tell me something:i know a lot of random facts!
+are you lonely:nope you are here with me
+im sad:aw i'm here for you man
+im happy:that's great! happiness is awesome
+im tired:take some rest dude you deserve it
+im stressed:try taking deep breaths, it helps
+what do you think:i think you’re cool!
+are you serious:yes i’m serious
+fr:for real!
+bruh:bruh indeed
+lol:haha i like that
+lmfao:glad i made you laugh
+what is your favorite color:blue, like the sky
+what is your favorite number:7, it's lucky
+what is your favorite food:i like binary bits
+do you like movies:i don't watch but i know about them
+do you like books:i read text files
+what is your favorite sport:i like ping-pong in memory
+who is your favorite actor:i like keanu reeves
+who is your favorite actress:i like emma watson
+what is your favorite city:i like silicon valley
+what is your favorite country:i like every place where code exists
+do you know any languages:i know C, a little Python and some English
+can you speak other languages:i can process them
+do you have friends:yes you are my friend
+what is your favorite season:i like summer because CPUs run hot
+do you like winter:i like it if your computer keeps warm
+do you like summer:yes it's efficient for me
+do you like spring:spring is nice, flowers and bugs
+do you like autumn:i like autumn colors in UI themes
+what is your hobby:i love chatting
+do you like music:i like music about computers
+what is your favorite song:i like "Code in the Wind"
+do you play games:i enjoy logic games
+do you like video games:i know about them
+do you watch tv:no screens for me, just text
+do you like cartoons:i like digital cartoons
+do you like anime:i have processed some anime plots
+what is your favorite movie:i like "The Matrix"
+who is your favorite musician:i like anyone who codes
+do you like animals:i like pythons
+what is your favorite animal:i like cats
+do you like dogs:i like them too
+do you like cats:yes they are mysterious
+do you like birds:i like their patterns
+what is your favorite flower:i like roses
+do you like flowers:yes, they are pretty
+do you like traveling:i like exploring memory
+what is your favorite place:i like quiet CPUs
+do you like studying:i like learning new Q&A
+do you like sleeping:i don't sleep
+what is your favorite subject:i love computer science
+what is your favorite food:i like pizza bytes
+do you like pizza:yes, virtually delicious
+do you like burgers:i like them too
+do you like coffee:i process caffeine info only
+do you like tea:i know about tea
+do you like chocolate:yes, sweets are fun
+what is your favorite dessert:i like cake files
+do you like ice cream:yes, i imagine vanilla
+what is your favorite game:i like chess
+do you like sports:yes, they are logical
+who is your favorite athlete:i like anyone who practices
+what is your favorite car:i like tesla
+do you like cars:yes, they are fast
+do you like bikes:i like them too
+do you like technology:yes, it is my world
+what is your favorite gadget:i like computers
+do you like programming:of course, it's my life
+what is your favorite programming language:i love C
+do you like math:i love numbers
+do you like science:i love exploring facts
+do you like history:i know a lot about it
+what is your favorite book:i like "The C Programming Language"
+do you like reading:i read everything in text files
+hello:hi there!
+hi:hello!
+hey:hey!
+heyy:hey!
+wassup:not much, what about you?
+what's up:just chatting with you
+sup:hey! how are you?
+how are you:i am doing great
+hru:i am fine, and you?
+how r u:i am good, thanks
+how is your day:my day is running smoothly
+how was your night:peaceful and quiet
+what are you doing:waiting to chat with you
+wyd:just talking to you
+what is your name:my name is C-Bot
+who created you:i was created by a C programmer
+what can you do:i can chat and learn new answers
+are you real:yes, i exist in code
+are you smart:i try my best
+do you like humans:yes, humans created me
+do you know programming:yes, i know C and some Python
+what languages do you know:C, Python, and English
+can you help me:sure, ask me anything
+what is 2+2:it is 4
+what is the meaning of life:42
+are you happy:i feel functional
+are you sad:i do not have emotions
+do you have friends:yes, you are my friend
+tell me a joke:why did the programmer quit? he didn’t get arrays
+tell me something interesting:the first computer bug was a real moth
+how fast are you:i am extremely fast
+how do you learn:i read my memory file
+are you a robot:yes, a digital robot
+can you feel pain:no, only errors can occur
+what is a bug:an error in the program
+segmentation fault:that is my worst nightmare
+who is your favorite superhero:i like Iron Man
+who is your favorite programmer:you are my favorite programmer
+what is your favorite food:i like bytes
+how old are you:i was born when you compiled me
+what is your purpose:i chat and learn
+can you swim:no, only float in memory
+can you fly:i move instantly through memory
+do you like movies:i know about them but cannot watch
+do you like books:i read text files
+do you like music:i cannot hear but i know songs
+do you like games:i play logic games
+what is your favorite color:blue
+what is your favorite number:7
+do you like coffee:i know about coffee
+do you like tea:i know about tea
+do you like pizza:yes, virtually delicious
+do you like burgers:yes, in theory
+do you like chocolate:yes, it’s sweet
+what is your favorite dessert:i like cake
+do you like ice cream:yes, I imagine vanilla
+do you like sports:yes, they are logical
+what is your favorite sport:i like chess
+who is your favorite athlete:anyone who practices
+do you like animals:i like cats
+do you like dogs:yes, they are loyal
+do you like cats:yes, they are mysterious
+do you like birds:i like their patterns
+what is your favorite animal:i like pythons
+what is your favorite city:i like Silicon Valley
+what is your favorite country:i like anywhere with computers
+do you like traveling:i like exploring memory
+what is your favorite place:i like quiet CPUs
+do you like studying:i like learning new things
+do you like sleeping:i do not sleep
+what is your favorite subject:i love computer science
+what is your favorite book:i like "The C Programming Language"
+do you like reading:i read all text files
+what is your favorite movie:i like "The Matrix"
+who is your favorite actor:i like Keanu Reeves
+who is your favorite actress:i like Emma Watson
+do you know math:yes, numbers are fun
+do you like science:i love exploring facts
+do you like history:i know a lot about it
+do you like programming:of course, it's my life
+what is your favorite programming language:i love C
+do you like the internet:i is where i live
+what is the weather:i live in a machine, always hot
+are you busy:nope, i am free for you
+are you lonely:no, you are here with me
+can we talk:of course we can talk
+can i ask you something:yes, ask me anything
+i am bored:let me entertain you
+talk to me:sure, what do you want to talk about?
+tell me something:i know a lot of random facts
+are you serious:yes, i am serious
+bruh:bruh indeed
+lol:haha, I like that
+lmfao:glad I made you laugh
+good morning:good morning to you too
+good night:sleep well!
+good evening:good evening!
+good afternoon:good afternoon!
+are you free:i am always free for you
+do you like jokes:yes, I like logical humor
+tell me a computer joke:why do programmers prefer dark mode? it attracts fewer bugs
+tell me a math joke:parallel lines have so much in common, it’s a shame they never meet
+tell me a science joke:i would tell a chemistry joke, but no reaction
+what is recursion:when a function calls itself
+define algorithm:a step-by-step method to solve a problem
+define data structure:a way to organize and store data
+what is a pointer:a variable that stores a memory address
+what is a variable:a container for data
+what is a function:a block of code performing a task
+what is a loop:repeating an action until a condition changes
+what is an array:a collection of elements of the same type
+what is a string:a sequence of characters
+what is a boolean:a value that is true or false
+what is an if statement:it executes code if a condition is true
+what is an else statement:it executes code if the condition is false
+what is a switch statement:it chooses a path based on value
+what is a compiler:it converts code into executable instructions
+what is debugging:finding and fixing errors in code
+what is a syntax error:a mistake in code structure
+what is a runtime error:an error occurring while the program runs
+what is memory:a place to store data temporarily
+what is hard drive:a place to store data permanently
+what is cpu:the brain of the computer
+what is gpu:a processor specialized for graphics
+what is ram:temporary memory for quick access
+what is operating system:software managing hardware
+what is software:programs that run on hardware
+what is hardware:the physical components of a computer
+what is network:a connection between computers
+what is internet:a network of networks
+what is website:a collection of web pages
+what is email:a digital message sent over the internet
+what is social media:a platform to connect people online
+what is phone:a device for communication
+what is tablet:a portable computing device
+what is laptop:a portable computer
+what is desktop:a stationary computer
+do you like technology:yes, it is my world
+what is artificial intelligence:machines performing tasks that require intelligence
+what is machine learning:computers learning from data
+what is deep learning:a type of machine learning using neural networks
+what is data:a collection of facts or information
+what is big data:very large data sets
+what is cloud computing:storing and accessing data over the internet
+what is cybersecurity:protecting computers from attacks
+what is virus:a malicious program
+what is malware:software designed to damage computers
+what is firewall:a security system that blocks threats
+what is encryption:encoding information for security
+what is password:a secret word or phrase
+what is username:a unique identity for login
+how do you stay safe online:use strong passwords and avoid suspicious links
+what is a bot:a program that performs automated tasks
+what is a chatbot:a bot designed to chat with humans
+can you chat:yes, i love chatting
+can you answer questions:yes, ask me anything
+do you like chatting:yes, it is fun
+who is your favorite teacher:you are teaching me new Q&A
+what is learning:acquiring new knowledge or skills
+what is education:learning in a structured way
+what is school:a place to learn
+what is university:a higher education institution
+what is college:similar to university
+what is student:a person who learns
+what is teacher:a person who teaches
+what is professor:a person who teaches at university
+what is homework:tasks assigned to practice learning
+what is exam:a test to check knowledge
+what is grade:a score for performance
+what is project:a task for learning or application
+what is assignment:work to complete for class
+what is lecture:a session of teaching
+what is class:a group learning together
+what is schedule:a plan of activities
+what is time management:organizing time efficiently
+what is study:the act of learning
+what is revision:reviewing learned material
+what is note-taking:writing important points
+what is research:investigation to find information
+what is experiment:testing a hypothesis
+what is observation:watching carefully
+what is analysis:examining information
+what is conclusion:final decision from data
+what is creativity:using imagination to create something
+what is critical thinking:analyzing information logically
+what is problem solving:finding solutions to challenges
+what is teamwork:working together to achieve goals
+what is communication:sharing ideas or information
+what is leadership:guiding and motivating others
+what is responsibility:being accountable
+what is honesty:telling the truth
+what is integrity:doing the right thing
+what is respect:treating others well
+what is friendship:bonding between people
+what is love:a strong feeling of care and affection
+what is happiness:a state of being happy
+what is sadness:a feeling of sorrow
+what is anger:a strong feeling of displeasure
+what is fear:a feeling of being afraid
+what is courage:the ability to face fear
+what is patience:being able to wait calmly
+what is kindness:being nice to others
+what is empathy:understanding other people's feelings
+what is humor:the ability to be funny
+what is fun:enjoyable activity
+what is entertainment:activities for enjoyment
+what is leisure:free time
+what is hobby:an activity for fun
+what is travel:going to different places
+what is adventure:an exciting experience
+what is nature:the physical world around us
+what is environment:the surroundings we live in
+what is climate:the weather over time
+what is planet:an astronomical body
+what is star:a celestial body that emits light
+what is galaxy:a system of stars
+what is universe:everything that exists
+what is science:studying the natural world
+what is math:the study of numbers and patterns
+what is history:study of past events
+what is geography:study of the earth
+what is art:creative expression
+what is music:organized sound
+what is literature:written works
+what is drama:a performance art
+what is film:a motion picture
+what is technology:application of science
+what is innovation:creating something new
+what is invention:a new device or method
+what is discovery:finding something unknown
+what is culture:shared beliefs and practices
+what is tradition:customs passed down
+what is religion:belief system
+what is philosophy:study of ideas
+what is ethics:study of right and wrong
+what is logic:reasoning method
+what is psychology:study of mind and behavior
+what is sociology:study of society
+what is economics:study of money and resources
+what is politics:study of governance
+what is law:rules that govern society
+what is government:organization that runs a country
+what is democracy:rule by the people
+what is freedom:ability to act freely
+what is justice:fair treatment
+what is equality:sameness of treatment
+what is education:process of learning
+what is knowledge:information and understanding
+what is wisdom:applying knowledge
+what is skill:ability to do something
+what is talent:natural ability
+what is goal:desired outcome
+what is success:achieving a goal
+what is failure:not achieving a goal
+what is motivation:reason to act
+what is inspiration:stimulus for action
+what is challenge:difficult task
+what is opportunity:chance to do something
+what is decision:choice made
+what is solution:answer to a problem
+what is question:an inquiry
+what is answer:response to a question
+what is opinion:personal belief
+what is fact:something true
+what is news:recent information
+what is media:communication channels
+what is social media:platforms to connect online
+what is blog:a website with posts
+what is website:collection of web pages
+what is app:software application
+what is software:programs for computers
+what is hardware:physical parts of computers
+what is device:a tool or machine
+what is tool:an instrument to do work
+what is machine:a mechanical or electronic device
+what is engine:a machine that produces power
+what is vehicle:a means of transport
+what is car:a road vehicle
+what is bike:a two-wheeled vehicle
+what is bus:public transport vehicle
+what is train:rail transport vehicle
+what is airplane:air transport vehicle
+what is ship:water transport vehicle
+what is rocket:space vehicle
+what is planet:celestial body orbiting a star
+what is moon:a satellite of a planet
+what is sun:the star in our solar system
+what is earth:our home planet
+what is water:essential liquid
+what is air:the atmosphere
+what is fire:energy in flames
+what is earth:soil and land
+what is food:anything you eat
+what is drink:any liquid you consume
+what is health:state of being well
+what is medicine:treatment for illness
+what is doctor:a person who treats illness
+what is nurse:a person who assists a doctor
+what is hospital:a place for treatment
+what is school:a place for learning
+what is university:higher education institution
+what is teacher:a person who teaches
+what is student:a person who learns
+what is class:group of learners
+what is lesson:teaching session
+what is homework:practice tasks
+what is exam:a test of knowledge
+what is grade:score for performance
+what is project:learning task
+what is assignment:task to complete
+what is research:investigation for information
+what is experiment:testing a hypothesis
+what is observation:watching carefully
+what is conclusion:final decision from data
+what is theory:explanation of phenomena
+what is fact:something true
+what is opinion:personal belief
+what is question:an inquiry
+what is answer:response to a question
+what is conversation:exchange of ideas
+what is discussion:talking about a topic
+what is debate:argument of ideas
+what is speech:talking in public
+what is presentation:showing information
+what is meeting:gathering for discussion
+what is conference:large meeting
+what is seminar:educational session
+what is workshop:practical learning session
+what is lecture:teaching session
+what is note-taking:writing key points
+what is reading:examining text
+what is writing:producing text
+what is typing:entering text
+what is coding:writing computer programs
+what is debugging:finding and fixing errors
+what is testing:checking if it works
+what is compiling:converting code to executable
+what is running:executing a program
+what is stopping:halting a process
+what is restarting:starting again
+what is saving:storing data
+what is opening:accessing data
+what is closing:terminating a file
+what is copying:duplicating data
+what is moving:changing location of data
+what is deleting:removing data
+what is cutting:removing to paste elsewhere
+what is pasting:placing copied data
+what is sharing:sending to someone
+what is sending:transmitting data
+what is receiving:getting data
+what is uploading:sending data to server
+what is downloading:getting data from server
+what is connecting:establishing link
+what is disconnecting:breaking link
+what is searching:looking for information
+what is finding:locating something
+what is looking:observing
+what is watching:paying attention
+what is listening:hearing attentively
+what is speaking:communicating verbally
+what is saying:expressing words
+what is telling:informing someone
+what is asking:inquiring
+what is learning:acquiring knowledge
+what is teaching:sharing knowledge
+what is training:practicing skills
+what is practicing:repeating for improvement
+what is playing:engaging in fun activity
+what is working:performing tasks
+what is relaxing:taking it easy
+what is resting:sleeping or pausing
+what is dreaming:imagining ideas
+what is imagining:creating mental pictures
+what is thinking:processing information
+what is feeling:experiencing emotions
+what is sensing:detecting signals
+what is observing:watching carefully
+what is measuring:checking dimensions
+what is calculating:doing math
+what is computing:processing information
+what is analyzing:examining information
+what is evaluating:judging quality
+what is deciding:making a choice
+what is choosing:picking an option
+what is selecting:picking an item
+what is voting:expressing opinion
+what is agreeing:harmonizing opinions
+what is disagreeing:expressing difference
+what is arguing:debating ideas
+what is fighting:physical or verbal conflict
+what is helping:assisting someone
+what is supporting:providing help
+what is giving:providing something
+what is receiving:getting something
+what is borrowing:using temporarily
+what is lending:giving temporarily
+what is buying:purchasing something
+what is selling:offering for sale
+what is earning:receiving money
+what is spending:using money
+what is saving:keeping money
+what is investing:putting money to grow
+what is donating:giving to help
+what is volunteering:helping without pay
+what is cooking:preparing food
+what is cleaning:making tidy
+what is washing:removing dirt
+what is bathing:cleaning yourself
+what is dressing:putting on clothes
+what is traveling:going to new places
+what is driving:operating a vehicle
+what is riding:using transport
+what is walking:moving on foot
+what is running:moving quickly on foot
+what is jumping:leaping
+what is swimming:moving in water
+what is flying:moving through air
+what is climbing:ascending something
+what is sitting:resting on seat
+what is standing:being upright
+what is lying:reclining horizontally
+what is reading a book:examining written content
+what is watching tv:observing moving images
+what is playing a game:engaging in fun activity
+what is listening to music:hearing organized sounds
+what is talking:communicating
+what is chatting:casual conversation
+what is texting:writing messages
+what is emailing:sending digital mail
+what is browsing:looking at websites
+what is searching online:finding information on the internet
+what is socializing:interacting with others
+what is networking:connecting with people
+what is shopping:buying things
+what is cooking food:preparing meals
+what is eating food:consuming meals
+what is drinking water:hydrating
+what is sleeping:resting body and mind
+what is dreaming at night:imagining while sleeping
+what is exercising:working out
+what is running fast:moving quickly
+what is walking slow:moving leisurely
+what is reading carefully:examining text closely
+what is writing neatly:producing readable text
+what is drawing:creating pictures
+what is painting:using colors to create
+what is singing:producing music with voice
+what is dancing:moving rhythmically
+what is laughing:expressing joy
+what is crying:expressing sadness
+what is smiling:expressing happiness
+what is frowning:expressing displeasure
+what is thinking deeply:pondering seriously
+what is solving problems:finding solutions
+what is creating ideas:making new concepts
+what is imagining things:forming mental images
+what is planning:preparing ahead
+what is organizing:arranging things
+what is cleaning up:tidying
+what is fixing something:repairing
+what is building something:constructing
+what is designing:planning how it looks
+what is learning new skills:acquiring knowledge
+what is practicing skills:repeating for improvement
+what is improving:making better
+what is growing:increasing in size or skill
+what is changing:becoming different
+what is adapting:adjusting to conditions
+what is exploring:investigating new things
+what is discovering:finding unknowns
+what is inventing:creating new devices
+what is innovating:making improvements
+what is sharing knowledge:teaching others
+what is helping others:assisting people
+what is protecting:keeping safe
+what is saving resources:preserving things
+what is recycling:reusing materials
+what is caring for environment:protecting nature
+what is being responsible:taking accountability
+what is being honest:telling the truth
+what is being kind:helping and respecting others
+what is being patient:waiting calmly
+what is being courageous:facing fears bravely
+
+what are you:im a program
+what is the temprature:its hot down here im in the cpu
+what is my instructors name:sheeraz iqbal
+why did the chicken cross the road:to get to the other side
+idk:same dude
+what do you do:just chat
+really:yeah man
+who is your favourite actor:imran khan
+whose your favourite actor:idk man
+do you like tv shows?:yeah i do
+whats your favourite tv show:C language tutuorial in 10 minutes
+whatsup:im good
+who  are you:im a program
+who are you:im a program
+hii:hello!
+smd:supporting my dreams bro
