@@ -111,7 +111,7 @@ int main () {
 
         if(searchMemory(input, response) == 0)
         {
-            printf("cBot: Looks like i dont know the answer to that, teach it to me below");
+            printf("cBot: Looks like i dont know the answer to that, teach it to me below!");
             printf("\nYou: ");
             fgets(response, sizeof(response), stdin);
 
